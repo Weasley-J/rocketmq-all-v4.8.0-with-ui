@@ -12,7 +12,7 @@
 
 `roketmq-consumer`
 
-
+![image-20210518174804549](https://alphahub-test-bucket.oss-cn-shanghai.aliyuncs.com/image/image-20210518174804549.png)
 
 ## 1 需要修改文件列表
 
