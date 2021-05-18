@@ -32,5 +32,5 @@ Windows直接壮双击`run_roketmq.bat`启动即可，Mac OS自己模仿我这�
 
 ## 3 `MQ`总结
 
-项目首推`RabbitMQ`，除非公司强制使用否则，就不要去尝试了。
+项目首推`RabbitMQ`，除非公司强制使用`RoketMQ`否则就不要去尝试了。
 
