@@ -2,6 +2,16 @@
 
 > **包含`UI`套件**
 
+`springboot`项目路径`springboot-full`：
+
+- 生产者
+
+`roketmq-producer`
+
+- 消费者
+
+`roketmq-consumer`
+
 
 
 ## 1 需要修改文件列表
